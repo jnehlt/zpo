@@ -1,0 +1,79 @@
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
+import java.text.Collator;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.Locale;
+
+public class lab4zad1 {
+    public static void main(String[] args) {
+        Collator collator = Collator.getInstance(new Locale("pl", "PL")); //just in cause
+        int testingTimes = 100000;
+        String[] temp = {"Łukasz", "Ścibor", "Stefania", "Darek", "Agnieszka", "Zyta", "Órszula", "Świętopełk"};
+
+        execute(new Sort(), collator, temp, testingTimes);
+    }
+
+    private static void print_array(String[] temp) {
+        for(int i = 0; i < temp.length; i++) {
+            if(i == 0) { System.out.print("(  "); }
+            System.out.print(temp[i] + "  ");
+            if(i == temp.length-1) { System.out.print(")\t"); }
+        }
+    }
+
+    private static void execute(Object obj, Collator collator, String[] arr, int testingTimes) {
+        if (obj == null) { return; }
+
+        Method[] methods = obj.getClass().getDeclaredMethods();
+        for (Method method : methods) {
+            if(method.getName().toString().contains("lambda")) { continue; }
+            if(testingTimes < 1) { testingTimes = 1; }
+
+            String [] arr_copy = Arrays.copyOf(arr, arr.length);
+            Object [] arglist = {collator, arr_copy};
+
+            print_array(arr);
+
+            long time = System.nanoTime();
+            for(int i = 0; i < testingTimes; i++) {
+                try { method.invoke(obj, arglist);}
+                catch (IllegalAccessException e) { e.getCause(); }
+                catch (IllegalArgumentException e) { e.getCause(); }
+                catch (InvocationTargetException e) { e.getCause(); }
+            }
+            print_array(arr_copy);
+            if(method.getName().toString().equals("sortStrings")) {
+                System.out.println(method.getName().toString() + ":\t\t" + (System.nanoTime() - time));
+            }
+            else {
+                System.out.println(method.getName().toString() + ":\t" + (System.nanoTime() - time));
+            }
+        }
+    }
+}
+
+class Sort {
+    public static void sortStrings(Collator collator, String[] words){
+        String temp;
+        int j;
+        for(int i = 1; i < words.length; i++){
+            temp = words[i];
+            for(j = i - 1; j >= 0 && collator.compare(words[j], temp) == 1; j--){
+                words[j + 1] = words[j];
+            }
+            words[j + 1] = temp;
+        }
+    }
+
+    public static void fastSortStrings(Collator collator, String[] words){
+        Arrays.sort(words, new Comparator<String>() {
+            @Override
+            public int compare(String o1, String o2) {
+                return collator.compare(o1, o2);
+            }
+        });
+    }
+
+    public static void fastSortStrings2(Collator collator, String[] words){ Arrays.sort(words, (o1, o2) -> collator.compare(o1, o2)); }
+}
