@@ -1,0 +1,41 @@
+import java.text.Collator;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+class SortTest {
+    Collator collator = Collator.getInstance();
+    String[] unsortedArray = {"Łukasz", "Ścibor", "Stefania", "Darek", "Agnieszka", "Zyta", "Órszula", "Świętopełk"};
+    String[] sortedArray = {"Agnieszka", "Darek", "Łukasz", "Órszula", "Stefania", "Ścibor", "Świętopełk", "Zyta"};
+
+    @org.junit.jupiter.api.Test
+    void sortStrings() {
+        Sort.sortStrings(collator, unsortedArray);
+
+        for(int i = 0; i < unsortedArray.length; i++)
+            assertEquals(sortedArray[i], unsortedArray[i]);
+    }
+
+    @org.junit.jupiter.api.Test
+    void fastSortStrings() {
+        Sort.fastSortStrings(collator, unsortedArray);
+
+        for(int i = 0; i < unsortedArray.length; i++)
+            assertEquals(sortedArray[i], unsortedArray[i]);
+    }
+
+    @org.junit.jupiter.api.Test
+    void fastSortStrings2() {
+        Sort.fastSortStrings2(collator, unsortedArray);
+
+        for(int i = 0; i < unsortedArray.length; i++)
+            assertEquals(sortedArray[i], unsortedArray[i]);
+    }
+
+    @org.junit.jupiter.api.Test
+    void fastSortStrings3() {
+        Sort.fastSortStrings3(collator, unsortedArray);
+
+        for(int i = 0; i < unsortedArray.length; i++)
+            assertEquals(sortedArray[i], unsortedArray[i]);
+    }
+}
