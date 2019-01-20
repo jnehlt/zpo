@@ -3,7 +3,7 @@ import java.text.Collator;
 import static org.junit.jupiter.api.Assertions.*;
 
 class SortTest {
-    Collator collator = Collator.getInstance();
+    Collator collator = Collator.getInstance(new Locale("pl", "PL");
     String[] unsortedArray = {"Łukasz", "Ścibor", "Stefania", "Darek", "Agnieszka", "Zyta", "Órszula", "Świętopełk"};
     String[] sortedArray = {"Agnieszka", "Darek", "Łukasz", "Órszula", "Stefania", "Ścibor", "Świętopełk", "Zyta"};
 
