@@ -7,8 +7,8 @@ public class Main
 {
     public static void main(String[] args)
     {
-        String [] firsNames = {"Marcin", "Monika", "Lel", "Artur", "Nabiał", "Krowa"};
-        String [] lastNames = {"Wojciechowski", "Rutkowska", "Lel", "Baran", "Nabiał", "Marciniak"};
+        String [] firsNames = {"Dominika", "Dominik", "Jerzy", "Igor", "Zygmunt", "Protazy", "Gerwazy"};
+        String [] lastNames = {"Wiśniewski", "Wójcik", "Nowak", "Jarek", "Lewandowski", "Martyniuk"};
 
         ArrayList<Student> s_l = new ArrayList<>();
 
