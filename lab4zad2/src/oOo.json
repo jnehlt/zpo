@@ -1,0 +1,65 @@
+{
+  "Words": [
+    {
+      "Word": "kartka",
+      "ValidStranslations": [
+        "card",
+        "sheet",
+        "leaf",
+        "page"
+      ]
+    },
+    {
+      "Word": "fajka",
+      "ValidStranslations": [
+        "pipe",
+        "schnorkel",
+        "smoke",
+        "snorkel",
+        "whistle",
+        "check",
+        "checkmark",
+        "tick",
+        "gooseneck",
+        "fag",
+        "cig",
+        "ciggie",
+        "ciggy"
+      ]
+    },
+    {
+      "Word": "baleron",
+      "ValidStranslations": [
+        "smoked",
+        "ham",
+        "gammon"
+      ]
+    },
+    {
+      "Word": "pamięć",
+      "ValidStranslations": [
+        "memory",
+        "remembrance",
+        "recall",
+        "recollection",
+        "mind",
+        "storage"
+      ]
+    },
+    {
+      "Word": "wrona",
+      "ValidStranslations": [
+        "crow",
+        "jackdaw"
+      ]
+    },
+    {
+      "Word": "koło",
+      "ValidStranslations": [
+        "circle",
+        "wheel",
+        "roundelay"
+      ]
+    }
+  ]
+}
