@@ -1,0 +1,58 @@
+{
+  "Words": [
+    {
+      "Word": "zmęczony",
+      "ValidStranslations": [
+        "tired",
+        "weary",
+        "jiggered"
+      ]
+    },
+    {
+      "Word": "szczęśliwy",
+      "ValidStranslations": [
+        "happy",
+        "lucky",
+        "fortunate",
+        "successful",
+        "good",
+        "effective",
+        "pat",
+        "fluky"
+      ]
+    },
+    {
+      "Word": "tramwaj",
+      "ValidStranslations": [
+        "tram",
+        "streetcar",
+		"tramcar",
+        "tramway"
+      ]
+    },
+    {
+      "Word": "autostrada",
+      "ValidStranslations": [
+        "highway",
+        "freeway",
+        "expressway",
+        "speedway"
+      ]
+    },
+    {
+      "Word": "zasoby",
+      "ValidStranslations": [
+        "resources",
+        "stock"
+      ]
+    },
+    {
+      "Word": "szkło",
+      "ValidStranslations": [
+        "glass",
+        "pane",
+        "crockery"
+      ]
+    }
+  ]
+}
