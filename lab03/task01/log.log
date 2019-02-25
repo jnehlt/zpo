@@ -1,0 +1,1674 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-12T19:10:41</date>
+  <millis>1542046241829</millis>
+  <sequence>0</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:41:583: Rysiak wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:42</date>
+  <millis>1542046242182</millis>
+  <sequence>1</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:42:182: Wojtyło wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:42</date>
+  <millis>1542046242783</millis>
+  <sequence>2</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:42:782: Wałdowski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:43</date>
+  <millis>1542046243401</millis>
+  <sequence>3</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:43:400: Szarzyński wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:43</date>
+  <millis>1542046243983</millis>
+  <sequence>4</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:43:982: Gwizdek wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:44</date>
+  <millis>1542046244583</millis>
+  <sequence>5</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:44:582: Wawrzyniak wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:44</date>
+  <millis>1542046244933</millis>
+  <sequence>6</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:44:933: Wojtyło zakończył wyścig z czasem: 275</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:45</date>
+  <millis>1542046245183</millis>
+  <sequence>7</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:45:182: Różanowski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:45</date>
+  <millis>1542046245290</millis>
+  <sequence>8</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:45:284: Rysiak zakończył wyścig z czasem: 370</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:45</date>
+  <millis>1542046245484</millis>
+  <sequence>9</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:45:483: Wałdowski zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:45</date>
+  <millis>1542046245782</millis>
+  <sequence>10</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:45:782: Nawrot wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:46</date>
+  <millis>1542046246385</millis>
+  <sequence>11</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:46:384: Kurpiewski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:46</date>
+  <millis>1542046246762</millis>
+  <sequence>12</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:46:761: Szarzyński zakończył wyścig z czasem: 336</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:46</date>
+  <millis>1542046246788</millis>
+  <sequence>13</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:46:788: Gwizdek zakończył wyścig z czasem: 280</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:46</date>
+  <millis>1542046246985</millis>
+  <sequence>14</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:46:984: Scholz wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:47</date>
+  <millis>1542046247284</millis>
+  <sequence>15</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:47:283: Wawrzyniak zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:47</date>
+  <millis>1542046247584</millis>
+  <sequence>16</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:47:583: Krystkowiak wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:48</date>
+  <millis>1542046248183</millis>
+  <sequence>17</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:48:183: Godzwon wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:48</date>
+  <millis>1542046248743</millis>
+  <sequence>18</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:48:743: Nawrot zakończył wyścig z czasem: 296</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:48</date>
+  <millis>1542046248763</millis>
+  <sequence>19</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:48:763: Różanowski zakończył wyścig z czasem: 358</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:48</date>
+  <millis>1542046248783</millis>
+  <sequence>20</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:48:783: Łaniewski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:49</date>
+  <millis>1542046249085</millis>
+  <sequence>21</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:49:85: Kurpiewski zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:49</date>
+  <millis>1542046249384</millis>
+  <sequence>22</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:49:383: Kusiński wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:49</date>
+  <millis>1542046249685</millis>
+  <sequence>23</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:49:685: Scholz zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:49</date>
+  <millis>1542046249983</millis>
+  <sequence>24</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:10:49:983: Paradziński wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:50</date>
+  <millis>1542046250284</millis>
+  <sequence>25</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:50:284: Krystkowiak zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:51</date>
+  <millis>1542046251054</millis>
+  <sequence>26</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:51:54: Godzwon zakończył wyścig z czasem: 287</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:52</date>
+  <millis>1542046252084</millis>
+  <sequence>27</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:52:84: Kusiński zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:52</date>
+  <millis>1542046252299</millis>
+  <sequence>28</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:52:294: Łaniewski zakończył wyścig z czasem: 351</message>
+</record>
+<record>
+  <date>2018-11-12T19:10:52</date>
+  <millis>1542046252954</millis>
+  <sequence>29</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:10:52:954: Paradziński zakończył wyścig z czasem: 297</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-12T19:12:54</date>
+  <millis>1542046374113</millis>
+  <sequence>0</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:12:53:926: Jasiczek wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:54</date>
+  <millis>1542046374525</millis>
+  <sequence>1</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:12:54:524: Zganiacz wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:55</date>
+  <millis>1542046375125</millis>
+  <sequence>2</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:12:55:124: Boryszewski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:55</date>
+  <millis>1542046375724</millis>
+  <sequence>3</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:12:55:724: Radojewski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:56</date>
+  <millis>1542046376324</millis>
+  <sequence>4</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:12:56:324: Knap wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:56</date>
+  <millis>1542046376887</millis>
+  <sequence>5</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:12:56:887: Jasiczek zakończył wyścig z czasem: 296</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:56</date>
+  <millis>1542046376924</millis>
+  <sequence>6</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:12:56:924: Burchardt wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:57</date>
+  <millis>1542046377526</millis>
+  <sequence>7</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:12:57:525: Tomaka wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:57</date>
+  <millis>1542046377675</millis>
+  <sequence>8</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:12:57:675: Zganiacz zakończył wyścig z czasem: 315</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:57</date>
+  <millis>1542046377826</millis>
+  <sequence>9</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:12:57:825: Boryszewski zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:58</date>
+  <millis>1542046378127</millis>
+  <sequence>10</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:12:58:126: Maksimowicz wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:58</date>
+  <millis>1542046378596</millis>
+  <sequence>11</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:12:58:595: Radojewski zakończył wyścig z czasem: 287</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:58</date>
+  <millis>1542046378727</millis>
+  <sequence>12</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:12:58:726: Proksa wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:59</date>
+  <millis>1542046379255</millis>
+  <sequence>13</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:12:59:255: Knap zakończył wyścig z czasem: 293</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:59</date>
+  <millis>1542046379326</millis>
+  <sequence>14</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:12:59:325: Pinkowski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:59</date>
+  <millis>1542046379895</millis>
+  <sequence>15</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:12:59:895: Burchardt zakończył wyścig z czasem: 297</message>
+</record>
+<record>
+  <date>2018-11-12T19:12:59</date>
+  <millis>1542046379926</millis>
+  <sequence>16</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:12:59:925: Sorek wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:13:00</date>
+  <millis>1542046380526</millis>
+  <sequence>17</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:13:0:525: Choromański wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:13:00</date>
+  <millis>1542046380666</millis>
+  <sequence>18</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:13:0:666: Tomaka zakończył wyścig z czasem: 314</message>
+</record>
+<record>
+  <date>2018-11-12T19:13:00</date>
+  <millis>1542046380828</millis>
+  <sequence>19</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:13:0:827: Maksimowicz zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:13:01</date>
+  <millis>1542046381129</millis>
+  <sequence>20</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:13:1:129: Spirydowicz wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:13:01</date>
+  <millis>1542046381428</millis>
+  <sequence>21</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:13:1:427: Proksa zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:13:01</date>
+  <millis>1542046381728</millis>
+  <sequence>22</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:13:1:728: Gazdowicz wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:13:02</date>
+  <millis>1542046382328</millis>
+  <sequence>23</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>19:13:2:328: Łaskawiec wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:13:02</date>
+  <millis>1542046382666</millis>
+  <sequence>24</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:13:2:666: Pinkowski zakończył wyścig z czasem: 334</message>
+</record>
+<record>
+  <date>2018-11-12T19:13:03</date>
+  <millis>1542046383006</millis>
+  <sequence>25</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:13:3:6: Sorek zakończył wyścig z czasem: 308</message>
+</record>
+<record>
+  <date>2018-11-12T19:13:03</date>
+  <millis>1542046383676</millis>
+  <sequence>26</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:13:3:676: Choromański zakończył wyścig z czasem: 315</message>
+</record>
+<record>
+  <date>2018-11-12T19:13:03</date>
+  <millis>1542046383830</millis>
+  <sequence>27</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:13:3:830: Spirydowicz zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:13:04</date>
+  <millis>1542046384609</millis>
+  <sequence>28</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:13:4:609: Gazdowicz zakończył wyścig z czasem: 288</message>
+</record>
+<record>
+  <date>2018-11-12T19:13:05</date>
+  <millis>1542046385029</millis>
+  <sequence>29</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:13:5:29: Łaskawiec zakończył wyścig z czasem: 270</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-12T19:23:23</date>
+  <millis>1542047003222</millis>
+  <sequence>0</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:22:961: Siewierski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:23</date>
+  <millis>1542047003562</millis>
+  <sequence>1</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:23:561: Słonina wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:24</date>
+  <millis>1542047004161</millis>
+  <sequence>2</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:24:161: Dębosz wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:24</date>
+  <millis>1542047004762</millis>
+  <sequence>3</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:24:761: Koziarz wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:25</date>
+  <millis>1542047005362</millis>
+  <sequence>4</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:25:362: Hallmann wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:25</date>
+  <millis>1542047005662</millis>
+  <sequence>5</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:25:662: Siewierski zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:25</date>
+  <millis>1542047005964</millis>
+  <sequence>6</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:25:963: Pycz wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:26</date>
+  <millis>1542047006548</millis>
+  <sequence>7</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:26:546: Słonina zakończył wyścig z czasem: 298</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:26</date>
+  <millis>1542047006562</millis>
+  <sequence>8</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:26:562: Psuja wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:27</date>
+  <millis>1542047007161</millis>
+  <sequence>9</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:27:161: Zdulski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:27</date>
+  <millis>1542047007463</millis>
+  <sequence>10</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:27:462: Dębosz zakończył wyścig z czasem: 330</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:27</date>
+  <millis>1542047007763</millis>
+  <sequence>11</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:27:762: Niziałek wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:27</date>
+  <millis>1542047007774</millis>
+  <sequence>12</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:27:772: Koziarz zakończył wyścig z czasem: 301</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:28</date>
+  <millis>1542047008063</millis>
+  <sequence>13</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:28:63: Hallmann zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:28</date>
+  <millis>1542047008365</millis>
+  <sequence>14</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:28:362: Prusko wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:28</date>
+  <millis>1542047008963</millis>
+  <sequence>15</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:28:962: Kopczak wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:29</date>
+  <millis>1542047009054</millis>
+  <sequence>16</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:29:54: Pycz zakończył wyścig z czasem: 309</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:29</date>
+  <millis>1542047009563</millis>
+  <sequence>17</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:29:562: Stolarski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:30</date>
+  <millis>1542047010162</millis>
+  <sequence>18</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:30:162: Dzierżyński wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:30</date>
+  <millis>1542047010233</millis>
+  <sequence>19</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:30:233: Psuja zakończył wyścig z czasem: 367</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:30</date>
+  <millis>1542047010463</millis>
+  <sequence>20</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:30:463: Niziałek zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:30</date>
+  <millis>1542047010662</millis>
+  <sequence>21</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:30:662: Zdulski zakończył wyścig z czasem: 350</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:30</date>
+  <millis>1542047010763</millis>
+  <sequence>22</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:30:762: Seroka wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:31</date>
+  <millis>1542047011063</millis>
+  <sequence>23</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:31:63: Prusko zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:31</date>
+  <millis>1542047011362</millis>
+  <sequence>24</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>19:23:31:362: Dyduła wystartował!</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:31</date>
+  <millis>1542047011953</millis>
+  <sequence>25</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:31:953: Kopczak zakończył wyścig z czasem: 299</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:32</date>
+  <millis>1542047012583</millis>
+  <sequence>26</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:32:583: Stolarski zakończył wyścig z czasem: 302</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:33</date>
+  <millis>1542047013164</millis>
+  <sequence>27</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:33:163: Dzierżyński zakończył wyścig z czasem: 300</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:33</date>
+  <millis>1542047013463</millis>
+  <sequence>28</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:33:463: Seroka zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-12T19:23:34</date>
+  <millis>1542047014063</millis>
+  <sequence>29</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>19:23:34:63: Dyduła zakończył wyścig z czasem: 270</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-16T08:40:55</date>
+  <millis>1542354055932</millis>
+  <sequence>0</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:40:55:613: Szlachetka wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:40:56</date>
+  <millis>1542354056217</millis>
+  <sequence>1</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:40:56:217: Dobrosz wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:40:56</date>
+  <millis>1542354056821</millis>
+  <sequence>2</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:40:56:819: Paćkowski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:40:57</date>
+  <millis>1542354057418</millis>
+  <sequence>3</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:40:57:418: Nowrot wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:40:58</date>
+  <millis>1542354058018</millis>
+  <sequence>4</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:40:58:18: Helbin wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:40:58</date>
+  <millis>1542354058618</millis>
+  <sequence>5</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:40:58:618: Juras wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:40:58</date>
+  <millis>1542354058705</millis>
+  <sequence>6</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:40:58:704: Szlachetka zakończył wyścig z czasem: 309</message>
+</record>
+<record>
+  <date>2018-11-16T08:40:59</date>
+  <millis>1542354059218</millis>
+  <sequence>7</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:40:59:218: Więckowski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:40:59</date>
+  <millis>1542354059460</millis>
+  <sequence>8</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:40:59:448: Dobrosz zakończył wyścig z czasem: 323</message>
+</record>
+<record>
+  <date>2018-11-16T08:40:59</date>
+  <millis>1542354059819</millis>
+  <sequence>9</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:40:59:819: Oleksa wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:40:59</date>
+  <millis>1542354059915</millis>
+  <sequence>10</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:40:59:914: Paćkowski zakończył wyścig z czasem: 309</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:00</date>
+  <millis>1542354060419</millis>
+  <sequence>11</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:41:0:418: Aniołkowski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:00</date>
+  <millis>1542354060590</millis>
+  <sequence>12</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:0:590: Nowrot zakończył wyścig z czasem: 317</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:00</date>
+  <millis>1542354060719</millis>
+  <sequence>13</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:0:719: Helbin zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:01</date>
+  <millis>1542354061019</millis>
+  <sequence>14</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:41:1:18: Olszowa wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:01</date>
+  <millis>1542354061620</millis>
+  <sequence>15</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:41:1:620: Matuszyk wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:01</date>
+  <millis>1542354061645</millis>
+  <sequence>16</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:1:644: Juras zakończył wyścig z czasem: 302</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:02</date>
+  <millis>1542354062219</millis>
+  <sequence>17</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:41:2:219: Brewiński wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:02</date>
+  <millis>1542354062262</millis>
+  <sequence>18</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:2:261: Więckowski zakończył wyścig z czasem: 304</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:02</date>
+  <millis>1542354062820</millis>
+  <sequence>19</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:41:2:820: Morel wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:03</date>
+  <millis>1542354063119</millis>
+  <sequence>20</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:3:119: Aniołkowski zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:03</date>
+  <millis>1542354063350</millis>
+  <sequence>21</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:3:350: Oleksa zakończył wyścig z czasem: 353</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:03</date>
+  <millis>1542354063419</millis>
+  <sequence>22</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:41:3:419: Kozina wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:03</date>
+  <millis>1542354063845</millis>
+  <sequence>23</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:3:839: Olszowa zakończył wyścig z czasem: 282</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:04</date>
+  <millis>1542354064020</millis>
+  <sequence>24</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8:41:4:20: Powideł wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:04</date>
+  <millis>1542354064801</millis>
+  <sequence>25</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:4:801: Matuszyk zakończył wyścig z czasem: 318</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:05</date>
+  <millis>1542354065710</millis>
+  <sequence>26</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:5:710: Brewiński zakończył wyścig z czasem: 349</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:06</date>
+  <millis>1542354066120</millis>
+  <sequence>27</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:6:120: Kozina zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:06</date>
+  <millis>1542354066331</millis>
+  <sequence>28</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:6:331: Morel zakończył wyścig z czasem: 351</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:07</date>
+  <millis>1542354067271</millis>
+  <sequence>29</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:7:271: Powideł zakończył wyścig z czasem: 325</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-16T08:41:42</date>
+  <millis>1542354102900</millis>
+  <sequence>0</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:41:42:626: Kieszek wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:45</date>
+  <millis>1542354105017</millis>
+  <sequence>1</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:41:45:17: Postek wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:47</date>
+  <millis>1542354107417</millis>
+  <sequence>2</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:41:47:417: Nowok wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:49</date>
+  <millis>1542354109817</millis>
+  <sequence>3</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:41:49:817: Kwaśnica wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:52</date>
+  <millis>1542354112218</millis>
+  <sequence>4</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:41:52:217: Brzezowski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:53</date>
+  <millis>1542354113427</millis>
+  <sequence>5</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:53:427: Kieszek zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:54</date>
+  <millis>1542354114617</millis>
+  <sequence>6</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:41:54:617: Maksymiuk wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:57</date>
+  <millis>1542354117017</millis>
+  <sequence>7</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:41:57:17: Frankiewicz wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:57</date>
+  <millis>1542354117938</millis>
+  <sequence>8</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:57:938: Postek zakończył wyścig z czasem: 323</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:58</date>
+  <millis>1542354118218</millis>
+  <sequence>9</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:41:58:218: Nowok zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-16T08:41:59</date>
+  <millis>1542354119418</millis>
+  <sequence>10</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:41:59:418: Urbańczyk wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:01</date>
+  <millis>1542354121018</millis>
+  <sequence>11</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:42:1:18: Kwaśnica zakończył wyścig z czasem: 280</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:01</date>
+  <millis>1542354121818</millis>
+  <sequence>12</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:42:1:818: Pszczółkowski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:04</date>
+  <millis>1542354124218</millis>
+  <sequence>13</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:42:4:218: Brocki wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:05</date>
+  <millis>1542354125018</millis>
+  <sequence>14</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:42:5:18: Brzezowski zakończył wyścig z czasem: 320</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:06</date>
+  <millis>1542354126458</millis>
+  <sequence>15</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:42:6:458: Maksymiuk zakończył wyścig z czasem: 296</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:06</date>
+  <millis>1542354126618</millis>
+  <sequence>16</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:42:6:618: Abel wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:07</date>
+  <millis>1542354127818</millis>
+  <sequence>17</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:42:7:818: Frankiewicz zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:09</date>
+  <millis>1542354129019</millis>
+  <sequence>18</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:42:9:18: Celiński wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:10</date>
+  <millis>1542354130219</millis>
+  <sequence>19</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:42:10:219: Urbańczyk zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:11</date>
+  <millis>1542354131420</millis>
+  <sequence>20</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:42:11:418: Wacławek wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:12</date>
+  <millis>1542354132619</millis>
+  <sequence>21</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:42:12:619: Pszczółkowski zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:13</date>
+  <millis>1542354133819</millis>
+  <sequence>22</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:42:13:819: Pożoga wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:16</date>
+  <millis>1542354136219</millis>
+  <sequence>23</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8:42:16:218: Bełtowski wystartował!</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:16</date>
+  <millis>1542354136819</millis>
+  <sequence>24</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:42:16:819: Brocki zakończył wyścig z czasem: 315</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:18</date>
+  <millis>1542354138259</millis>
+  <sequence>25</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:42:18:259: Abel zakończył wyścig z czasem: 291</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:19</date>
+  <millis>1542354139819</millis>
+  <sequence>26</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:42:19:819: Celiński zakończył wyścig z czasem: 270</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:24</date>
+  <millis>1542354144739</millis>
+  <sequence>27</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:42:24:739: Wacławek zakończył wyścig z czasem: 333</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:26</date>
+  <millis>1542354146141</millis>
+  <sequence>28</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:42:26:141: Pożoga zakończył wyścig z czasem: 308</message>
+</record>
+<record>
+  <date>2018-11-16T08:42:28</date>
+  <millis>1542354148779</millis>
+  <sequence>29</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>8:42:28:779: Bełtowski zakończył wyścig z czasem: 314</message>
+</record>
+</log>
